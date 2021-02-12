@@ -1,3 +1,8 @@
+# CalculadoraReact
+Projeto desenvolvido no curso de React + Redux da cod3r na udemy.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
