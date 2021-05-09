@@ -1,6 +1,7 @@
 # CalculadoraReact
 Projeto desenvolvido no curso de React + Redux da cod3r na udemy.
 
+![Print da calculadora](https://user-images.githubusercontent.com/67620423/117558305-98a9be00-b052-11eb-89e4-84e3a7b6f3d7.png)
 
 
 # Getting Started with Create React App
